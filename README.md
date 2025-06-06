@@ -21,5 +21,6 @@ Ran an A/B test to analyze the relationship between credit card payment and tota
 ### A/B test results
 There is a statistically significant difference in the average total fare between customers who use credit cards and
 
-## Next Steps
-Recommendation for the New York City TLC should encourages customers to pay with credit cards, and create strategies to promote credit card payments. For example, the New York City TLC can install signs that read “Credit card payments are preferred” in their cabs, and implement a protocol that requires cab drivers to verbally inform customers that credit card payments are preferred.
+**The purpose** of this project is to demostrate knowledge of how to prepare, create, and analyze A/B tests. Your A/B test results should aim to find ways to generate more revenue for taxi cab drivers.
+
+**The goal** is to apply descriptive statistics and hypothesis testing in Python. The goal for this A/B test is to sample data and analyze whether there is a relationship between payment type and fare amount. For example: discover if customers who use credit cards pay higher fare amounts than customers who use cash.
